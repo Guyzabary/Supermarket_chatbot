@@ -26,8 +26,8 @@ from PyQt5.QtCore import Qt, QSize, QTimer
 from PyQt5.QtGui import QFont, QColor
 
 # === הגדרות API keys ===
-OPENAI_API_KEY = "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"
-GOOGLE_API_KEY = "AIzaSyDGIvlLPIG8nwJ8Ol-kBkxX4GJdLX-NVZI"
+OPENAI_API_KEY = " "
+GOOGLE_API_KEY = " "
 
 # אתחול OpenAI
 client = OpenAI(api_key=OPENAI_API_KEY)
